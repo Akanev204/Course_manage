@@ -1,0 +1,14 @@
+d:\Netcore\Cousre\ClassLibrary2\bin\Debug\net9.0\ClassLibrary2.deps.json
+d:\Netcore\Cousre\ClassLibrary2\bin\Debug\net9.0\ClassLibrary2.runtimeconfig.json
+d:\Netcore\Cousre\ClassLibrary2\bin\Debug\net9.0\ClassLibrary2.dll
+d:\Netcore\Cousre\ClassLibrary2\bin\Debug\net9.0\ClassLibrary2.pdb
+d:\Netcore\Cousre\ClassLibrary2\obj\Debug\net9.0\ClassLibrary2.csproj.AssemblyReference.cache
+d:\Netcore\Cousre\ClassLibrary2\obj\Debug\net9.0\ClassLibrary2.GeneratedMSBuildEditorConfig.editorconfig
+d:\Netcore\Cousre\ClassLibrary2\obj\Debug\net9.0\ClassLibrary2.AssemblyInfoInputs.cache
+d:\Netcore\Cousre\ClassLibrary2\obj\Debug\net9.0\ClassLibrary2.AssemblyInfo.cs
+d:\Netcore\Cousre\ClassLibrary2\obj\Debug\net9.0\ClassLibrary2.csproj.CoreCompileInputs.cache
+d:\Netcore\Cousre\ClassLibrary2\obj\Debug\net9.0\ClassLibrary2.dll
+d:\Netcore\Cousre\ClassLibrary2\obj\Debug\net9.0\refint\ClassLibrary2.dll
+d:\Netcore\Cousre\ClassLibrary2\obj\Debug\net9.0\ClassLibrary2.pdb
+d:\Netcore\Cousre\ClassLibrary2\obj\Debug\net9.0\ClassLibrary2.genruntimeconfig.cache
+d:\Netcore\Cousre\ClassLibrary2\obj\Debug\net9.0\ref\ClassLibrary2.dll
